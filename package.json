@@ -1,0 +1,25 @@
+{
+  "name": "proyectoreact",
+  "version": "1.0.0",
+  "description": "Proyecto realizado con la librria react.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --progress --colors"
+  },
+  "repository": "git+https://github.com/JoseHollow24/Proyecto-React1.git",
+  "keywords": [
+    "react",
+    "npm",
+    "javascript",
+    "html",
+    "css",
+    "yarn"
+  ],
+  "author": "JoseAguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseHollow24/Proyecto-React1/issues"
+  },
+  "homepage": "https://github.com/JoseHollow24/Proyecto-React1#readme",
+}

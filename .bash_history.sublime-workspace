@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"jsonParse〔function〕"
+			],
+			[
+				"en",
+				"enString"
+			],
+			[
+				"mostrar",
+				"mostrarInfo"
+			],
+			[
+				"conf",
+				"configurarNombre"
+			],
+			[
+				"Eva",
+				"Eva〔class〕"
+			],
+			[
+				"wai",
+				"waifuAlMando"
+			],
+			[
+				"Re",
+				"Rei"
+			],
+			[
+				"1",
+				"17.html"
+			],
+			[
+				"user",
+				"userMessage3"
+			],
+			[
+				"uss",
+				"usserMessage2"
+			],
+			[
+				"use",
+				"userMessage3〔variable〕"
+			],
+			[
+				"boto",
+				"botonValor〔argument〕"
+			],
+			[
+				"boton",
+				"botonNombre〔argument〕"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"livereload\tInsert livereload.js script"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 279.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"SFTP",
+				"SFTP: Browse Server…"
+			],
+			[
+				"DocBlockr",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"Emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"Auto Filename",
+				"AutoFileName: Default Settings"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Chedo/proyectos/yugioh/src/tarjeta.jsx",
+		"/C/Users/Chedo/proyectos/yugioh/src/components/card.js",
+		"/C/Users/Chedo/proyectos/yugioh/src/components/nav.js",
+		"/C/Users/Chedo/proyectos/yugioh/index.html",
+		"/C/Users/Chedo/proyectos/yugioh/src/main.js",
+		"/C/Users/Chedo/proyectos/yugioh/package.json",
+		"/C/Users/Chedo/proyectos/yugioh/assets/js/main.js",
+		"/C/Users/Chedo/proyectos/yugioh/assets/js/vehiculos.js",
+		"/C/Users/Chedo/Documents/trabajo con el flaco/clase1",
+		"/C/Users/Chedo/Documents/burso js/31-2.html",
+		"/C/Users/Chedo/Documents/burso js/31.html",
+		"/C/Users/Chedo/Documents/burso js/33-4.html",
+		"/C/Users/Chedo/Documents/burso js/33.html",
+		"/C/Users/Chedo/Documents/burso js/32-2.html",
+		"/C/Users/Chedo/Documents/burso js/32.html",
+		"/C/Users/Chedo/prueba/index.html",
+		"/C/Users/Chedo/Documents/29-2.html",
+		"/C/Users/Chedo/Documents/29.html",
+		"/C/Users/Chedo/Documents/28.html",
+		"/C/Users/Chedo/Documents/26-2.html",
+		"/C/Users/Chedo/Documents/26.html",
+		"/C/Users/Chedo/Documents/25.html",
+		"/C/Users/Chedo/Documents/24.html",
+		"/C/Users/Chedo/Documents/21.html",
+		"/C/Users/Chedo/Documents/20.html",
+		"/C/Users/Chedo/prueba/Css/estilo.css",
+		"/C/Users/Chedo/prueba/Article.html",
+		"/C/Users/Chedo/Documents/clase19.html",
+		"/C/Users/Chedo/Documents/19-2.html",
+		"/C/Users/Chedo/Documents/19-3.html",
+		"/C/Users/Chedo/Documents/18-2.html",
+		"/C/Users/Chedo/Documents/18.html",
+		"/C/Users/Chedo/Documents/17.html",
+		"/C/Users/Chedo/Documents/cuarta maricura.html",
+		"/C/Users/Chedo/Documents/16.html",
+		"/C/Users/Chedo/Documents/js.js",
+		"/C/Users/Chedo/Documents/tercera maricura.html",
+		"/C/Users/Chedo/Documents/vid11",
+		"/C/Users/Chedo/prueba/Css/Article.css",
+		"/C/Users/Chedo/prueba/estilo.css",
+		"/C/Users/Chedo/Documents/segunda maricura.js",
+		"/C/Users/Chedo/Documents/primera maricura.html",
+		"/C/Users/Chedo/Documents/segunda maricura.html",
+		"/C/Users/Chedo/prueba/myfunsion.js",
+		"/C/Users/Chedo/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/Chedo/prueba/html.png",
+		"/C/Users/Chedo/prueba/Readme.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onTouch",
+			"CardRoot",
+			"CardExampleWithAvatar",
+			"active",
+			"alertaBoton",
+			"salida",
+			"voltear",
+			"enString",
+			"mostrarInfo",
+			"Persona",
+			"PeDrsona",
+			"Persona",
+			"persona",
+			"Persona",
+			"persona",
+			"Persona",
+			"<button type=\"button\" onclick=\"myFunction('2')\">duro</button>",
+			"this",
+			"container",
+			"contenedor",
+			">\t\t\t",
+			"494"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".bash_history.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
